@@ -90,19 +90,19 @@
   },
 
   {
-      "question": "What’s the most important book in the Moslem religion?",
-      "optionA": "The Koran",
+      "question": "What’s the most important book in the Islam religion?",
+      "optionA": "The Quran",
       "optionB": "The Dictionary",
       "optionC": "The Bible",
       "optionD": "The Chemistry text Book",
-      "answer": "The Koran"
+      "answer": "The Quran"
   },
 
   {
       "question": "What’s the capital of Ethiopia?",
       "optionA": "Cape Town",
       "optionB": "San Francisco",
-      "optionC": "Abuja",
+      "optionC": "Addis Ababa",
       "optionD": "Syndey",
       "answer": "Addis Ababa"
   },
